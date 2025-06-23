@@ -1,9 +1,8 @@
-
 DataConfig:
-  dataset: "ABIDE"
+  dataset: "Monod"
 
 ModelConfig:
-  backbone: "CCNN"
+  backbone: "COD"
   pretrained: false
 
 TrainingConfig:
